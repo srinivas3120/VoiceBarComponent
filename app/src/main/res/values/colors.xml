@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#E88D17</color>
+    <color name="colorPrimaryDark">#F57C00</color>
+    <color name="colorPrimaryDarkTransparent">#AAF57C00</color>
+    <color name="colorAccent">#FF5722</color>
+
+    <color name="light_gray_bg">#f8f8f7</color>
+    <color name="seperator">#ffd1d3d4</color>
+    <color name="menu_seperator">#4e4e4e</color>
+    <color name="menu_seperator_bottom">#DDDDDD</color>
+    <color name="black">#000000</color>
+    <color name="light_black">#353738</color>
+    <color name="golden_green">#71624a</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#00FFFF</color>
+    <color name="blue2">#0079FF</color>
+    <color name="blue3">#800079FF</color>
+    <color name="sky_blue">#EAF6F6</color>
+    <color name="green">#78A005</color>
+    <color name="amber">#FFC200</color>
+    <color name="login_bg">#cec7bb</color>
+    <color name="gray">#5B5B5B</color>
+    <color name="text_hint_gray">#969696</color>
+    <color name="royalblue">#1E90FF</color>
+    <color name="ghostwhite">#F8F8FF</color>
+    <color name="orange">#FFA500</color>
+    <color name="gold">#FFD700</color>
+    <color name="olivegreen">#556B2F</color>
+    <color name="slateblue">#483D8B</color>
+    <color name="brick">#B22222</color>
+    <color name="lightgray">#D3D3D3</color>
+    <color name="conversation">#1ea6e2</color>
+    <color name="myvobolo">#E88D17</color>
+    <color name="myvoboloread">#FECD8E</color>
+    <color name="notes">#ffc200</color>
+    <color name="friends">#44c414</color>
+    <color name="settings">#4378d6</color>
+    <color name="logout">#d3450d</color>
+    <color name="title_name">#566569</color>
+    <color name="red">#7C0A02</color>
+    <color name="background_bar">#696969</color>
+    <color name="lightgrey">#F0F0F0</color>            <!--E1E1E1 -->
+    <color name="gender_bg">#C3C3C3</color>
+    <color name="read_blue">#2A597A</color>
+    <color name="read_myvobolo">#9B602E</color>
+    <color name="read_voicemail">#666768</color>
+    <color name="voicemail_read">#D5D6D7</color>
+    <color name="voicemail">#8A8B8E</color>
+    <color name="semitransparent">#60000000</color>
+    <color name="friends_highlight_blue">#377DC0</color>
+    <color name="friends_block_blue">#D8DADE</color>
+    <color name="text_message_link_color">#33b5e5</color>
+    <color name="list_main_text">#222</color>
+    <color name="list_invite">#47A162</color>
+    <color name="list_sub_text">#7d7d7d</color>
+    <color name="alert_header_color">#E9EAED</color>
+    <color name="dialog_separator">#1D44F4</color>
+    <color name="loc_enable">#007AFF</color>
+    <color name="voicemail_blue">#46AAFF</color>
+
+    <!-- Circular Recorder View Color Code -->
+    <color name="recoder_green">#609e43</color>
+    <color name="recoder_amber">#fff200</color>
+    <color name="recoder_red">#e41e25</color>
+
+    <!-- color for conversation list xml -->
+    <color name="text_msg">#FF414141</color>
+    <color name="date">#FF556367</color>
+    <color name="failedtosendred">#FFB70A00</color>
+
+
+
+    <color name="receiverAudioMsg">#0b93f6</color>
+    <color name="senderAudioMsg">#6db631</color>
+    <color name="receiverAudioMsgRead">#A5D5F8</color>
+    <color name="senderAudioMsgRead">#C5EFA4</color>
+    <color name="progressbar">#55000000</color>
+    <color name="readGreen">#476D3A</color>
+    <color name ="celebrity_read">#FECD8E</color>
+
+    <!-- terms and conditions -->
+    <color name="offWhite">#DFDFDD</color>
+    <!-- guided experience   -->
+    <color name="darkBlue">#144C6C</color>
+    <color name="darkBlueMid">#D9144C6C</color>
+    <color name="darkBlueMidLight">#8C144C6C</color>
+    <color name="lighterBlue">#00144C6C</color>
+    <color name="touchDarkBlue">#a60C6292</color>
+    <color name="touchLightBlue">#407FA2</color>
+    <color name="touchLighterBlue">#89A5B9</color>
+    <color name="lighterBlueTrans">#ff073751</color>
+    <color name="lighterTransBlue">#5E7681</color>
+    <color name="oilBlue">#226FB8</color>
+    <color name="readGray">#989C9C</color>
+    <color name="unreadGray">#fff</color>
+    <color name="darkGray">#009B9797</color>
+    <color name="mediumGray">#009B9797</color>
+    <color name="lighterGray">#009B9797</color>
+    <color name="timerGray">#B6B6B6</color>
+    <color name="genderMaleColor">#226FB8</color>
+    <color name="genderFemaleColor">#EF0089</color>
+    <color name="genderOtherColor">#E88D17</color>
+    <color name="dialog3.0">#fff</color>
+    <color name="alert_noniv">#666768</color>
+    <color name="alert_sep">#33B5E5</color>
+    <color name="dialer_bg">#F4F4F4</color>
+
+
+    <!--new ui color-->
+    <color name="PrimaryColor">#F15B4E</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="validate_color">#737373</color>
+    <color name="button_text_color">#9C9C9C</color>
+    <color name="alert_title_color">#959595</color>
+    <color name="dark_grey">#400000</color>
+    <color name="list_item_bg_color">@color/white</color>
+    <color name="list_header_text_color">@color/black</color>
+    <color name="list_text_color">#9C9C9C</color>
+    <color name="list_time_color">#F15B4E</color>
+    <color name="list_divider_color">#F4F2F2</color>
+    <color name="progress_color">#36000000</color>
+    <color name="ripple_color">#B6B6B6</color>
+    <color name="chat_tab_counter_color">#5D5D5D</color>
+
+    <color name="red_progressbar">#F87c76</color>
+    <color name="green_progressbar">#C4F0A8</color>
+    <color name="blue_progressbar">#60b3f0</color>
+    <color name="orange_progressbar">#f0ab60</color>
+    <color name="grey_progressbar">#c3c3c3</color>
+    <color name="drawer_menu">#737373</color>
+
+    <color name="red_progressbar_seen">#fbb6b2</color>
+    <color name="blue_progressbar_seen">#a7d5f7</color>
+    <color name="orange_progressbar_seen">#f5cd9b</color>
+    <color name="grey_progressbar_seen">#ededed</color>
+
+
+</resources>

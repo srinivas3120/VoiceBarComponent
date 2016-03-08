@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layer-list
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<item
+		android:id="@android:id/background" android:drawable="@drawable/curved_sender_audio_layout">
+
+	</item>
+	<item
+		android:id="@android:id/secondaryProgress">
+		<clip>
+			 <shape android:shape="rectangle"  >
+         <corners android:radius="3dip" />
+				<gradient
+					android:startColor="#000000"
+					android:endColor="#000000"
+					android:angle="270" />
+			</shape>
+		</clip>
+	</item>
+	<item
+		android:id="@android:id/progress">
+		<clip>
+			 <shape android:shape="rectangle"  >
+				<corners android:radius="3dip" />
+				<gradient
+					android:startColor="#26000000"
+					android:endColor="#26000000"
+					android:angle="270" />
+			</shape>
+		</clip>
+	</item>
+</layer-list>
